@@ -1,0 +1,45 @@
+body {
+  background: #d5d0c8;
+  color:#d25a26;
+}
+h1 {
+  text-align: center;
+  font-family: 'Monoton', cursive;
+}
+img {
+  display: block;
+  margin: 20px auto;
+}
+input {
+    border: 2px solid #d25a26 !important;
+    border-radius: 10px !important;
+    font-family: 'Share Tech Mono', monospace !important;
+}
+button {
+  margin-left: 10px !important;
+  border-radius: 10px !important;
+  background-color: #d25a26 !important;
+  border: none !important;
+}
+#resultGroup {
+  margin-top: 40px;
+}
+#resultGroup div{
+  margin-bottom: 20px;
+  border: 1px solid;
+}
+.finalResult{
+  background-color: #d25a26;
+  border-radius: 10px;
+  padding: 10px;
+  font-family: 'Share Tech Mono', monospace;
+
+}
+.finalResult:hover{
+  box-shadow: -10px 5px rgb(104, 112, 119);
+}
+.finalResult h4,p{
+  color:#fff;
+}
+.finalResult a {
+  text-decoration: none;
