@@ -6,14 +6,22 @@ h1 {
   text-align: center;
   font-family: 'Monoton', cursive;
 }
+
+h4{
+  text-align: center;
+  padding: 20px;
+  font-family: 'Share Tech Mono', monospace;
+}
+
 img {
   display: block;
   margin: 20px auto;
 }
+
 input {
-    border: 2px solid #d25a26 !important;
-    border-radius: 10px !important;
-    font-family: 'Share Tech Mono', monospace !important;
+  border: 2px solid #d25a26 !important;
+  border-radius: 10px !important;
+  font-family: 'Share Tech Mono', monospace !important;
 }
 button {
   margin-left: 10px !important;
