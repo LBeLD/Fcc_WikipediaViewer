@@ -11,6 +11,7 @@ As well, user can make a random search by clicking Wikipedia logo
 
 -[jQuery](https://jquery.com/)  
 -[BOOTSTRAP](https://getbootstrap.com/)  
+-[WIKIPEDIA API](https://www.mediawiki.org/wiki/API:Main_page)
   
    
 
